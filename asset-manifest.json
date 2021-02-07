@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kleisthenis-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/kleisthenis-app/static/js/main.a18177fd.chunk.js",
+    "main.js.map": "/kleisthenis-app/static/js/main.a18177fd.chunk.js.map",
+    "runtime-main.js": "/kleisthenis-app/static/js/runtime-main.f1cf9249.js",
+    "runtime-main.js.map": "/kleisthenis-app/static/js/runtime-main.f1cf9249.js.map",
+    "static/js/2.a13923c5.chunk.js": "/kleisthenis-app/static/js/2.a13923c5.chunk.js",
+    "static/js/2.a13923c5.chunk.js.map": "/kleisthenis-app/static/js/2.a13923c5.chunk.js.map",
+    "static/js/3.a3dfdd05.chunk.js": "/kleisthenis-app/static/js/3.a3dfdd05.chunk.js",
+    "static/js/3.a3dfdd05.chunk.js.map": "/kleisthenis-app/static/js/3.a3dfdd05.chunk.js.map",
+    "index.html": "/kleisthenis-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/kleisthenis-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a13923c5.chunk.js.LICENSE.txt": "/kleisthenis-app/static/js/2.a13923c5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kleisthenis-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1cf9249.js",
+    "static/js/2.a13923c5.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a18177fd.chunk.js"
+  ]
+}
